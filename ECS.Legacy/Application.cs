@@ -1,4 +1,6 @@
-﻿namespace ECS.Legacy
+﻿using System;
+
+namespace ECS.Legacy
 {
     public class Application
     {
@@ -11,6 +13,8 @@
             ecs.SetThreshold(20);
 
             ecs.Regulate();
+
+            Console.ReadLine();
         }
     }
 }

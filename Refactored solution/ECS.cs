@@ -1,4 +1,4 @@
-﻿namespace ECS.Legacy
+﻿namespace ECS.Refactored
 {
     public class ECS
     {

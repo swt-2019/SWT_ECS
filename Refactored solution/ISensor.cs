@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Refactored_solution
+namespace ECS.Refactored
 {
-    interface ISensor
+    public interface ISensor
     {
         int GetTemp();
-        bool RunSelfTest();
     }
 }

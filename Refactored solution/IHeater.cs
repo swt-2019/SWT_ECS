@@ -4,17 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Refactored_solution
+namespace ECS.Refactored
 {
-    interface IHeater
+    public interface IHeater
     {
         void TurnOn();
 
 
         void TurnOff();
-
-
-        bool RunSelfTest();
 
     }
 }

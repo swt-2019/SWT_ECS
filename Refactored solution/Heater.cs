@@ -1,4 +1,4 @@
-﻿namespace Refactored_solution
+﻿namespace ECS.Refactored
 {
     public class Heater : IHeater
     {

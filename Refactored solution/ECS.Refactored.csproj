@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C17FA484-5FEB-48DD-A3C0-D5470C9FE68A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Refactored_solution</RootNamespace>
-    <AssemblyName>Refactored solution</AssemblyName>
+    <RootNamespace>ECS.Refactored</RootNamespace>
+    <AssemblyName>ECS.Refactored</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

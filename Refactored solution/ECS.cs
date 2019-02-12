@@ -1,4 +1,4 @@
-﻿namespace Refactored_solution
+﻿namespace ECS_Refactored
 {
     public class ECS
     {

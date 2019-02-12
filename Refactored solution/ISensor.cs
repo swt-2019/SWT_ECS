@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Refactored_solution
+namespace ECS_Refactored
 {
    public interface ISensor
     {

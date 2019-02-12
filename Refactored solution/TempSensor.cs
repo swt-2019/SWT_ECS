@@ -1,7 +1,7 @@
 ﻿using System;
-using Refactored_solution;
+using ECS_Refactored;
 
-namespace Refactored_solution
+namespace ECS_Refactored
 {
     internal class TempSensor : ISensor
     {

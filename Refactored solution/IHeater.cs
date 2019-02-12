@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Refactored_solution
 {
-    interface IHeater
+    public interface IHeater
     {
         void TurnOn();
 

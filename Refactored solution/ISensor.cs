@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Refactored_solution
 {
-    interface ISensor
+   public interface ISensor
     {
         int GetTemp();
         bool RunSelfTest();
